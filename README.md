@@ -1,5 +1,5 @@
 # ARTH-team-task-1
-Whatsup everyone. Hpoe you all are safe and sound. This is the repo which contains the combined efforts of me and my team members in creating a Menu-Driven Python program for automating some of the most demanding and used technologies around the world. This is a step-wise guide to help you understand the working and execution of our program
+Whatsup everyone. Hope you all are safe and sound. This is the repo which contains the combined efforts of me and my team members in creating a Menu-Driven Python program for automating some of the most demanding and used technologies around the world. This is a step-wise guide to help you understand the working and execution of our program
 
 # Team members who contributed in this project :-
 1. Prayag Magotra (B.Tech 3rd Year student, Pune)
