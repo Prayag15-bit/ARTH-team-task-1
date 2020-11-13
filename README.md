@@ -79,4 +79,4 @@ Let's connect with each other :-
 1. Prayag Magotra :- https://www.linkedin.com/in/prayag-magotra-127b461a6/
 2. Mahima Jindal :- https://www.linkedin.com/in/mahima-jindal-15635a192
 3. Pawar Suvarna :- https://www.linkedin.com/in/pawar-suvarna-7122681b0
-4. Jitender Mahara :-
+4. Jitender Mahara :- https://www.linkedin.com/in/jitendar-mahara-4573941b4
