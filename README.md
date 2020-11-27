@@ -50,13 +50,13 @@ Whatsup everyone. Hope you all are safe and sound. This is the repo which contai
 
 *python3 -V*
 
-3. Now, we have to install some modules and libraries for our program. For that, there is nothing much complex to do, Just use these commands to either install the libraries or check whether they are installed :-
+3. Now, we have to install some modules and libraries for our program. For that, there is nothing much complex to do, Just use these commands to either install the libraries or check whether they are installed or not :-
 
-*pip3 install os*
+*pip3 install os* (Used for executing respective Operating System Applications)
 
-*pip3 install getpass*
+*pip3 install getpass* (Used as a security credential)
 
-*pip3 install colored*
+*pip3 install colored* (Mainly used for style fonting)
 
 4. After successfully installing the libraries and modules, we are finally ready to run our program. Remember, this program has some authentication factors. So, while running the program, if it anywhere asks for a password, just use the password *"redhat"*
 
